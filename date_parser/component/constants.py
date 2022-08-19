@@ -1,4 +1,4 @@
-IMAGE_NAME = "registry.gitlab.com/driyca/date-parser"
+IMAGE_NAME = "andreclaudino/date-parser"
 IMAGE_TAG = "v1.0.0"
 DISPLAY_NAME = "Parse Datetime"
 CONTAINER_NAME = "date_parser"

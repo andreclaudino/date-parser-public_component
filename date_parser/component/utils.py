@@ -1,6 +1,4 @@
-from kfp.aws import use_aws_secret
 from kfp.dsl import ContainerOp
-from kfp.gcp import use_gcp_secret
 
 
 def setup_resources(operator: ContainerOp, memory_request: int, memory_limit: int,
